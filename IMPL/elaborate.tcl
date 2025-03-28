@@ -1,0 +1,2 @@
+synth_design -top CAMMMP_TECH -part $FPGA_PART -include_dirs $PARAMETER_ROOT -resource_sharing auto -fsm_extraction one_hot -flatten_hierarchy none -verbose
+write_checkpoint -force output/synthezied_design.dcp

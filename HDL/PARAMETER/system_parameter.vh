@@ -1,0 +1,1 @@
+localparam      SPI_SPI_INTERFACE_PACKAGE_WIDTH     = 8;
